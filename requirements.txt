@@ -1,5 +1,5 @@
 numpy==1.14.1
-tensorflow==1.2.0
+tensorflow==1.12.2
 tqdm==4.19.6
 tensorboardX==1.2
 pickle==4.0
